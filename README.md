@@ -4,28 +4,28 @@ This is a high-performance video conference application built using Vite-React a
 
 Features
 
-Real-time Video & Audio Communication: High-quality video and audio streams with low latency.
+- Real-time Video & Audio Communication: High-quality video and audio streams with low latency.
 
-Screen Sharing: Share your screen with participants for presentations, demos, or collaborative work.
+- Screen Sharing: Share your screen with participants for presentations, demos, or collaborative work.
 
-Text Chat: Integrated real-time chat for text-based communication during calls.
+- Text Chat: Integrated real-time chat for text-based communication during calls.
 
-Responsive UI: Optimized for both desktop and mobile devices.
+- Responsive UI: Optimized for both desktop and mobile devices.
 
-Scalable: Capable of handling multiple participants in a single session.
-
+- Scalable: Capable of handling multiple participants in a single session.
+  
 Easy Setup: Quick setup with Vite, ensuring fast builds and hot module replacement.
 
-Tech Stack
+## Tech Stack
 
-Frontend: ReactJS, Vite
+- Frontend: ReactJS, Vite
 
-Backend: ZogoCloud API
+- Backend: ZogoCloud API
 
-Styling: Tailwind CSS / CSS Modules / Styled Components (whichever you used)
+- Styling: Tailwind CSS / CSS Modules / Styled Components (whichever you used)
 
-State Management: Redux / Context API (if applicable)
+- State Management: Redux / Context API (if applicable)
 
-Build Tool: Vite
+## Build Tool: Vite
 
 Deployment: (e.g., Netlify, Vercel, etc.)
