@@ -74,9 +74,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
--Vite: For the fast and efficient build process.
+- Vite: For the fast and efficient build process.
 
--ZogoCloud: For the reliable video conferencing API.
+- ZogoCloud: For the reliable video conferencing API.
 
 - ReactJS: For the powerful UI library.
 
