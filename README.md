@@ -29,3 +29,54 @@ Easy Setup: Quick setup with Vite, ensuring fast builds and hot module replaceme
 ## Build Tool: Vite
 
 Deployment: (e.g., Netlify, Vercel, etc.)
+
+## Installation
+To get started, clone the repository and install the necessary dependencies.
+
+`bash git clone https://github.com/yourusername/videoCall.App-app.git`
+
+`cd vite-project-app`
+
+`npm install `
+
+## Usage
+
+1.Creating a Room:
+
+- Navigate to the homepage and click on "Create Room".
+
+- Share the room link with participants.
+
+2.Joining a Room:
+
+- Enter a room ID or use a direct link to join an existing room.'
+  
+3.Controls:
+
+- Mute/Unmute: Toggle audio.
+
+- Start/Stop Video: Toggle video stream.
+
+- Screen Share: Start sharing your screen.
+
+- Chat: Open the chat panel to send and receive messages.
+
+## Deployment
+
+To deploy the app, build the project using the following command:
+
+`npm run build`
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+-Vite: For the fast and efficient build process.
+
+-ZogoCloud: For the reliable video conferencing API.
+
+- ReactJS: For the powerful UI library.
+
